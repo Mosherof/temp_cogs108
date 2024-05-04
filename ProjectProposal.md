@@ -27,9 +27,9 @@ We hypothesize that the temperature will have a direct relationship with UV inde
 The ideal dataset that I would want would be quite high-dimensional. Preferably thousands to tens of thousands of observations, with variables collected at each observation being ones such as rain, cloudiness, UV index, wind speeds, temperature, etc. We could pull this off of a public API, store it as a csv file, and then clean, store, and organize it in a pandas dataframe. Some potential datasets include the following:
 
 - [Fair Pricing for Any Weather](https://weatherstack.com/product)
-- [https://openweathermap.org/api](Open Weather: Weather API)
-- [https://www.meteomatics.com/en/weather-api/?ppc_keyword=darksky%20weather%20api&utm_term=darksky%20weather%20api&utm_campaign=Dark+Sky+API&utm_source=adwords&utm_medium=ppc&hsa_acc=5001518620&hsa_cam=9781935523&hsa_grp=101551521004&hsa_ad=434964826447&hsa_src=g&hsa_tgt=kwd-746423936049&hsa_kw=darksky%20weather%20api&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwltKxBhDMARIsAG8KnqUPEtaIydZfJW-WWhEVwKYrSka-w3Y43Rton6tqUM0QoJlB6d2KHDsaApl1EALw_wcB](Mateo Matics: Weather API)
-- [https://www.tomorrow.io/weather-api/](Tomorrow: Weather API)
+- [Open Weather: Weather API](https://openweathermap.org/api)
+- [Mateo Matics: Weather API](https://www.meteomatics.com/en/weather-api/?ppc_keyword=darksky%20weather%20api&utm_term=darksky%20weather%20api&utm_campaign=Dark+Sky+API&utm_source=adwords&utm_medium=ppc&hsa_acc=5001518620&hsa_cam=9781935523&hsa_grp=101551521004&hsa_ad=434964826447&hsa_src=g&hsa_tgt=kwd-746423936049&hsa_kw=darksky%20weather%20api&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwltKxBhDMARIsAG8KnqUPEtaIydZfJW-WWhEVwKYrSka-w3Y43Rton6tqUM0QoJlB6d2KHDsaApl1EALw_wcB)
+- [Tomorrow: Weather API](https://www.tomorrow.io/weather-api/)
 
 ## Ethics and Privacy
 - Are there any biases/privacy/terms of use issues with the data you proposed?
